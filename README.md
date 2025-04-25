@@ -100,8 +100,13 @@
 
 13. **Enlaces de apoyo:**
 
+  - [HTML Cheatsheet](https://docs.emmet.io/cheat-sheet/) 
   - [Responsive Search Bar](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_searchbar3)
-  
+  - [CSS Cheatsheet](https://htmlcheatsheet.com/css/)
+  - [CSS Background Cheatsheet](https://learntheweb.courses/topics/images-cheat-sheet/)
+  - CSS Flexbox and CSS Grid Cheatsheets
+      - [Flexbox sheet](https://jonitrythall.com/content/flexboxsheet.pdf)
+      - [Flexbox and Grid sheet](https://www.paradigmadigital.com/assets/cms/cheat_sheet_flexbox_6fb013edd1.pdf)
 ---
 
 > **Entrega:** Envía únicamente tu enlace de repositorio donde contendra tu `index.html`, `css/style.css` y una captura de pantalla mostrando tu resultado final ajustado al mockup.
