@@ -97,6 +97,10 @@
       2. Cada estudiante creará una **rama** nueva con su nombre (por ejemplo, `nombres-apellidos`).  
       3. Realizará múltiples **commits** en esa rama para reflejar su progreso.  
       4. Al concluir, compartirá el **enlace** a su rama creada en el repositorio.
+
+13. **Enlaces de apoyo:**
+
+  - [Responsive Search Bar](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_searchbar3)
   
 ---
 
